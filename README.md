@@ -8,6 +8,6 @@
 1. 安装python3，从 `[https://www.python.org/downloads/macos/](https://www.python.org/ftp/python/3.11.3/python-3.11.3-macos11.pkg)` 下载pkg安装即可
    （如果你是懂行的请不要喷我，这个纯面向新手）
    输入`python -V`应该能正常打印出
-3. 下载本项目的两个文件（主界面右上角download，然后选zip下载，不要下载git）并解压
+3. 下载本项目的文件（主界面右上角绿色的Code，然后选择Download zip）并解压
 4. 在解压后的文件夹中右键  `在终端中打开`
 5. 输入`python guangyun.py` 然后理论上就能用了
